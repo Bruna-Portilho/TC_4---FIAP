@@ -11,3 +11,13 @@
 
 ## JULHO - 2024
 
+
+
+## DESCRIÇÃO TECH CHALLENGE
+
+Utilizando os dados do IPEA (I....) de histórico do preço do barril de petróleo brent, construir um modelo de machine learning que preveja diariamente o preço do barril.
+O trabalho deve contar uma análise exploratória de dados, apresentada na forma de um dashboard, baseada em situações geopolíticas, crises econômicas e demanda globla de energia.
+A análise deve conter pelo menos quatro "insights".
+Adicionalmente, deve ser apresentado um plnao para fazer o deploy com as ferrramentas necessárias além de um MVP do modelo em produção utilizando o Streamlit.
+
+
