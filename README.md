@@ -41,6 +41,20 @@ Com base no gráfico do preço do barril de petróleo ao longo do tempo apresent
   ![image](https://github.com/Bruna-Portilho/TC_4-FIAP/assets/85244180/8873bd6f-490e-4eb8-bc2c-871e07a9f434)
 
 
+  ### ANÁLISE DESCRITIVA
+
+  Observa-se abaixo a análise descritiva dos dados, ou seja, como se comportam os preços do barril de petróleo ao longo do período analisado.
+  Nesse período, há um total de 4.017 valores, com uma média de USD 66.90 e uma mediana de USD 62.77. O valor máximo obtido nesse período foi de USD 123.64 e o mínimo de USD - 36.98
+
+  ![image](https://github.com/Bruna-Portilho/TC_4-FIAP/assets/85244180/bed0263c-f86a-45db-9653-6596976c65b7)
+
+  Apresenta-se abaixo o histograma dos preços do barril de petróleo. A partir da sua análise, fica claro que não se trata de uma distribuição normal.
+
+  ![image](https://github.com/Bruna-Portilho/TC_4-FIAP/assets/85244180/bfe67fab-9fe1-4cb7-86a6-d1028b743801)
+
+
+
+
 
   
 
