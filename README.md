@@ -1,4 +1,4 @@
-# FIAP - PÓS GRADUAÇÃO DATA ANAYTICS
+# FIAP - PÓS GRADUAÇÃO DATA ANALYTICS
 # TECH CHALLENGE - MÓDULO 4
 ## PREVISÃO DO PREÇO DO BARRIL DE PETRÓLEO
 
@@ -51,6 +51,17 @@ Com base no gráfico do preço do barril de petróleo ao longo do tempo apresent
   Apresenta-se abaixo o histograma dos preços do barril de petróleo. A partir da sua análise, fica claro que não se trata de uma distribuição normal.
 
   ![image](https://github.com/Bruna-Portilho/TC_4-FIAP/assets/85244180/bfe67fab-9fe1-4cb7-86a6-d1028b743801)
+
+  ## MODELOS
+
+  Foram escolhdos dois modelos para testar: o Sarimax e o Prophet da Meta.
+  A métrica escolhida para avaliar os modelos foi o MAPE (Erro Percentual Médio Absoluto). O MAPE calcula a média das porcentagens absolutas dos erros entre os valores previstos e os valores reais. Dessa forma, 
+  quanto menor o MAPE, mais precisa é a previsão do modelo.
+  Abaixo apresenta-se a fórmula para o cálculo do MAPE:
+
+  
+ ![image](https://github.com/user-attachments/assets/ca643af3-543f-48f4-a2c8-fd2287e17155)
+
 
 
 
