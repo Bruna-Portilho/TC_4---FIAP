@@ -63,20 +63,20 @@ Com base no gráfico do preço do barril de petróleo ao longo do tempo apresent
  ![image](https://github.com/user-attachments/assets/ca643af3-543f-48f4-a2c8-fd2287e17155)
 
 
- ### SARIMAX
+  ### SARIMAX
 
- Apresenta-se abaixo os resultados oriundos da aplicação do Sarimax nos dados.
- Observa-se que a performance do modelo foi ruim, dado ao alto valor do MAPE. Adicionalmente, observa-se uma grande diferença entre os valores reais e preditos pelo modelo no gráfico "Comparação entre Valores 
- Reais e Preditos".
- Uma hipótese levantada para esse comportamento é impacto dos dados do período da Pandemia, o que acabou levando a piora do desempenho do modelo.
+  Apresenta-se abaixo os resultados oriundos da aplicação do Sarimax nos dados.
+  Observa-se que a performance do modelo foi ruim, dado ao alto valor do MAPE. Adicionalmente, observa-se uma grande diferença entre os valores reais e preditos pelo modelo no gráfico "Comparação entre Valores 
+  Reais e Preditos".
+  Uma hipótese levantada para esse comportamento é impacto dos dados do período da Pandemia, o que acabou levando a piora do desempenho do modelo.
 
-![image](https://github.com/user-attachments/assets/ab8e89df-215f-4132-9678-a363818c9fe3)
+ ![image](https://github.com/user-attachments/assets/ab8e89df-215f-4132-9678-a363818c9fe3)
 
-![image](https://github.com/user-attachments/assets/0c55b8f4-a4e1-49f4-b5b2-c96869173077).
+ ![image](https://github.com/user-attachments/assets/0c55b8f4-a4e1-49f4-b5b2-c96869173077).
 
-![image](https://github.com/user-attachments/assets/bf628660-3b19-42f0-8453-f13a23a50788)
+ ![image](https://github.com/user-attachments/assets/bf628660-3b19-42f0-8453-f13a23a50788)
 
-![image](https://github.com/user-attachments/assets/4b7ee4a3-786c-4d7d-a7e4-cf92eb0f5fa2)
+ ![image](https://github.com/user-attachments/assets/4b7ee4a3-786c-4d7d-a7e4-cf92eb0f5fa2)
 
 
 
