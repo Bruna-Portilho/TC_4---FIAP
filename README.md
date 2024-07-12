@@ -55,12 +55,28 @@ Com base no gráfico do preço do barril de petróleo ao longo do tempo apresent
   ## MODELOS
 
   Foram escolhdos dois modelos para testar: o Sarimax e o Prophet da Meta.
+  O período escolhido para obtenção do modelo foi de Janeiro/2019 a Dezembro/2023.
   A métrica escolhida para avaliar os modelos foi o MAPE (Erro Percentual Médio Absoluto). O MAPE calcula a média das porcentagens absolutas dos erros entre os valores previstos e os valores reais. Dessa forma, 
   quanto menor o MAPE, mais precisa é a previsão do modelo.
   Abaixo apresenta-se a fórmula para o cálculo do MAPE:
 
   
  ![image](https://github.com/user-attachments/assets/ca643af3-543f-48f4-a2c8-fd2287e17155)
+
+
+ ### SARIMAX
+
+ Apresenta-se abaixo os resultados oriundos da aplicação do Sarimax nos dados.
+ Observa-se 
+
+![image](https://github.com/user-attachments/assets/ab8e89df-215f-4132-9678-a363818c9fe3)
+
+![image](https://github.com/user-attachments/assets/0c55b8f4-a4e1-49f4-b5b2-c96869173077).
+
+![image](https://github.com/user-attachments/assets/bf628660-3b19-42f0-8453-f13a23a50788)
+
+
+
 
 
 
