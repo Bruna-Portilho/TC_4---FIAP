@@ -79,6 +79,20 @@ Com base no gráfico do preço do barril de petróleo ao longo do tempo apresent
  ![image](https://github.com/user-attachments/assets/4b7ee4a3-786c-4d7d-a7e4-cf92eb0f5fa2)
 
 
+ ### PROPHET
+
+  Apresenta-se abaixo os resultados oriundos da aplicação do Prophet nos dados.
+  Observa-se que a performance do modelo foi consideravelmente superior a do Sarimax, sendo esse o modelo escolhido. Adicionalmente, nota-se que no gráfico de "Comparação entre Valores 
+  Reais e Preditos", onde os valores preditos são representados na curva preta, enquanto os valores reais são representados pela curva azul. Os valores previstos podem ser considerados próximos aos valores 
+  reais, à exceção do período da Pandemia, especialmente entre os anos de 2020 e 2021, onde observa-se valores preditos um pouco mais distantes dos reais.
+  
+  ![image](https://github.com/user-attachments/assets/3b5a875d-3886-4510-9ad0-83399a500cb1)
+
+  ![image](https://github.com/user-attachments/assets/9c526ba9-400a-4174-84cf-847aba1b538a)
+
+
+
+
 
 
 
